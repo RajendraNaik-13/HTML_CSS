@@ -1,0 +1,15 @@
+#h1{
+    background-color: green;
+    border: 10px solid black;
+    padding: 20px;
+    
+}
+p{
+    margin: 0;
+    height: 200px;
+    width: 200px;
+}
+#h2{
+    background-color: aqua;
+    margin: 500px;
+}
